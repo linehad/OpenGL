@@ -1,0 +1,10 @@
+^C:\USERS\LINEHAD\DESKTOP\OPENGL\BUILD\CMAKEFILES\B6BE0429D62CA2C29B07D30A5CF8C8D1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/linehad/Desktop/OpenGL -BC:/Users/linehad/Desktop/OpenGL/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/linehad/Desktop/OpenGL/build/OpenGL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

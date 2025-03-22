@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\a54249bc5c4dfb582aced05ff4b0d6be\dep_spdlog-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\3fb5bded3aa3899a80db2bf2cddfc046\dep_spdlog-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\b6be0429d62ca2c29b07d30a5cf8c8d1\dep_spdlog.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\linehad\Desktop\OpenGL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\linehad\Desktop\OpenGL\build\CMakeFiles\dep_spdlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BC0DF5EA-0187-3B03-A4FB-39D2DD3948CC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
