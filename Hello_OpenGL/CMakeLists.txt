@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.13)
 add_compile_options("/utf-8")
 
-set(PROJECT_NAME OpenGL)
+set(PROJECT_NAME HelloOpenGL)
 set(CMAKE_CXX_STANDARD 17)
 
-set(WINDOW_NAME "Hello, OpenGL!")
+set(WINDOW_NAME "Hello OpenGL!")
 set(WINDOW_WIDTH 960)
 set(WINDOW_HEIGHT 540)
 
